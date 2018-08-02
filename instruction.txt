@@ -1,0 +1,27 @@
+Installation
+1.Extract file.
+2.Enter program through GJStore.jar file.
+PS.Recomment create shotcut to desktop.
+If errors occur there are 2 reason
+ - No internet connection.
+ - No java in your computer, install at (https://www.java.com/en/download/win10.jsp)
+If there are another problem contract me at Line-id = poonnanun
+
+*instruction*
+
+Book loaning
+1.Go into Loan.
+2.Dind your books, you can search your books with key word (such as if you want to find "Thai Gems and Jewery Heritage" you can search just "Thai").
+3.Fill in your information(only loaner-id is required), then press confirm.
+PS.Eed sign means that book is unavailable and green is available.
+
+Book returning
+1.Go to Return.
+2.Select the loaner you can search your id and name with key word.
+3.Click inside that book and click yes to confirm.
+
+Book adding
+1.Go to Book List.
+2.Click Add.
+3.Fill in your book's information every boxes
+4.Click confirm 
